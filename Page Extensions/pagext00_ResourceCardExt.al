@@ -26,12 +26,11 @@ pageextension 50100 "CSD Resource Card Extension" extends "Resource Card"
             }
         }
     }
-
-    actions
-    {
-        // Add changes to page actions here
-    }
+    trigger OnAfterGetRecord()
+    begin
+        ShowMaxField := (Type = type::Machine)
+    end;
 
     var
-        ShowRoom: Boolean;
+        ShowMaxField: Boolean;
 }
