@@ -34,4 +34,5 @@ pageextension 50100 "CSD Resource Card Extension" extends "Resource Card"
 
     var
         ShowMaxField: Boolean;
+        
 }
