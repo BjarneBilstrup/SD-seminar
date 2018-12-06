@@ -1,9 +1,9 @@
 {
   "id": "99e31c70-022e-4870-9617-bb86579e3593",
   "name": "SD seminar",
-  "publisher": "Default publisher",
-  "brief": "",
-  "description": "",
+  "publisher": "Balance Bjarne",
+  "brief": "Dette er Brief",
+  "description": "Det er første forsøg",
   "version": "1.0.0.0",
   "privacyStatement": "",
   "EULA": "",
