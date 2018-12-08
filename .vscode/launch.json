@@ -6,7 +6,7 @@
             "request": "launch",
             "name": "Your own server",
             "server": "http://localhost",
-            "serverInstance": "BC130",
+            "serverInstance": "DC365CU01",
             "authentication": "Windows",
             "startupObjectId": 22,
             "startupObjectType": "Page",
