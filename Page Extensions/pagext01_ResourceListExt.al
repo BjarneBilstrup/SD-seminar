@@ -31,8 +31,8 @@ pageextension 50101 "CSD ResourceListExt" extends "Resource List"
     }
     trigger OnOpenPage()
     begin
-        ShowType := (getfilter(type) = '');])    
-      ShowMaxField := getfilter(type) = format(type::Machine);
+        ShowType := (getfilter(type) = '');
+        ShowMaxField := getfilter(type) = format(type::Machine);
     end;
 
     var
