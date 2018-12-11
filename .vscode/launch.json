@@ -6,7 +6,7 @@
             "request": "launch",
             "name": "Your own server",
             "server": "http://localhost",
-            "serverInstance": "DC365CU01",
+            "serverInstance": "DynamicsNAV130",
             "authentication": "Windows",
             "startupObjectId": 22,
             "startupObjectType": "Page",
